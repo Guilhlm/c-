@@ -1,0 +1,10 @@
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\bin\Debug\aula1 c#.exe.config
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\bin\Debug\aula1 c#.exe
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\bin\Debug\aula1 c#.pdb
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\obj\Debug\aula1 c#.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\obj\Debug\aula1_c_.Form1.resources
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\obj\Debug\aula1_c_.Properties.Resources.resources
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\obj\Debug\aula1 c#.csproj.GenerateResource.cache
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\obj\Debug\aula1 c#.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\obj\Debug\aula1 c#.exe
+C:\Users\guilherme.lmaia\source\repos\c#\aula1\aula1 c#\aula1 c#\obj\Debug\aula1 c#.pdb
